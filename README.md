@@ -40,11 +40,6 @@ Tenho perfil criativo e comunicativo, com experiência em **produção audiovisu
   </a>
 </p>
 
-### 🔐 Autenticação
-<p align="left">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-</p>
-
 ### 🎨 Design
 <p align="left">
   <a href="https://skillicons.dev">
