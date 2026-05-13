@@ -40,6 +40,7 @@ Tenho perfil criativo e comunicativo, com experiência em **produção audiovisu
   </a>
 </p>
 
+
 ### 🎨 Design
 <p align="left">
   <a href="https://skillicons.dev">
@@ -69,6 +70,6 @@ Tenho perfil criativo e comunicativo, com experiência em **produção audiovisu
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:viniciusc11@outlook.com.br">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail" />
   </a>
 </p>
